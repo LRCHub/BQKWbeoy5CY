@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "RECONNECTION",
+  "base_artist": "angela",
+  "createdAt": "2026-03-03T13:06:35.242248Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mothership Reconnection (feat.Parliament/Funkadelic) (Daft Punk Remix)",
+      "artist": "Scott Grooves",
+      "has_synced": true,
+      "path": "select/01_Mothership_Reconnection_(feat.Parliament_Funkadelic)_(Daft_Punk_Remix)_Scott_Grooves.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mothership Reconnection (Daft Punk remix)",
+      "artist": "Scott Grooves feat. Parliament",
+      "has_synced": true,
+      "path": "select/02_Mothership_Reconnection_(Daft_Punk_remix)_Scott_Grooves_feat._Parliament.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "RECONNECTION",
+      "artist": "Angela",
+      "has_synced": true,
+      "path": "select/03_RECONNECTION_Angela.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "RECONNECTION",
+      "artist": "angela",
+      "has_synced": true,
+      "path": "select/04_RECONNECTION_angela.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mothership Reconnection (feat.Parliament/Funkadelic) (Daft Punk Remix)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/05_Mothership_Reconnection_(feat.Parliament_Funkadelic)_(Daft_Punk_Remix)_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mothership Reconnection (feat. Parliament/Funkadelic) (Daft Punk Remix)",
+      "artist": "Scott Grooves & Parliament & Funkadelic",
+      "has_synced": true,
+      "path": "select/06_Mothership_Reconnection_(feat._Parliament_Funkadelic)_(Daft_Punk_Remix)_Scott_Grooves_&_Parliament_&_Funkadelic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mothership Reconnection (Daft Punk Remix)",
+      "artist": "Scott Grooves feat. Parliament & Funkadelic",
+      "has_synced": true,
+      "path": "select/07_Mothership_Reconnection_(Daft_Punk_Remix)_Scott_Grooves_feat._Parliament_&_Funkadelic.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mothership Reconnection (Daft Punk Remix)",
+      "artist": "Funkadelic",
+      "has_synced": true,
+      "path": "select/08_Mothership_Reconnection_(Daft_Punk_Remix)_Funkadelic.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mothership Reconnection (Daft Punk remix) (radio edit)",
+      "artist": "Scott Grooves",
+      "has_synced": false,
+      "path": "select/09_Mothership_Reconnection_(Daft_Punk_remix)_(radio_edit)_Scott_Grooves.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mothership Reconnection (original) (radio edit)",
+      "artist": "Scott Grooves",
+      "has_synced": false,
+      "path": "select/10_Mothership_Reconnection_(original)_(radio_edit)_Scott_Grooves.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mothership Reconnection (Scott Grooves Radio Edit)",
+      "artist": "Scott Grooves",
+      "has_synced": false,
+      "path": "select/11_Mothership_Reconnection_(Scott_Grooves_Radio_Edit)_Scott_Grooves.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Reconnection",
+      "artist": "Peter Broderick",
+      "has_synced": true,
+      "path": "select/12_The_Reconnection_Peter_Broderick.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mothership Reconnection (Funk D Void remix) (feat. Parlament-Funkadelic)",
+      "artist": "Scott Grooves",
+      "has_synced": false,
+      "path": "select/13_Mothership_Reconnection_(Funk_D_Void_remix)_(feat._Parlament-Funkadelic)_Scott_Grooves.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mothership Reconnection",
+      "artist": "Scott Grooves feat. Parliament / Funkadelic",
+      "has_synced": false,
+      "path": "select/14_Mothership_Reconnection_Scott_Grooves_feat._Parliament___Funkadelic.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Final Reconnection",
+      "artist": "Isometry",
+      "has_synced": false,
+      "path": "select/15_Final_Reconnection_Isometry.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mothership Reconnection (feat.Parliament/Funkadelic)",
+      "artist": "Scott Grooves",
+      "has_synced": true,
+      "path": "select/16_Mothership_Reconnection_(feat.Parliament_Funkadelic)_Scott_Grooves.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Mothership Reconnection (feat. Parliament/Funkadelic) [] ((Daft Punk Remix))",
+      "artist": "Scott Grooves",
+      "has_synced": true,
+      "path": "select/17_Mothership_Reconnection_(feat._Parliament_Funkadelic)_[]_((Daft_Punk_Remix))_Scott_Grooves.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RECONNECTION",
+      "artist": "angela",
+      "has_synced": false,
+      "path": "select/pl_01_RECONNECTION_angela.txt"
+    }
+  ]
+}
